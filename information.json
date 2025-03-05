@@ -1,5 +1,5 @@
 {
-  "online": false,
+  "online": true,
   "version": "1.0.0",
   "message": "Welcome to Temp File Cleaner! The service is running normally."
 }
